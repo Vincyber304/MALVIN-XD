@@ -10,23 +10,23 @@
   "stack": "container",
   "env": {
     "BOT_NAME": {
-      "description": "Your Bot Name",
+      "description": "VINCYBER ",
       "required": true,
       "value": "ᴍᴀʟᴠɪɴ xᴅ"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "VinAI",
       "required": true,
       "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here",
+      "description": "255742700114",
       "required": true,
-      "value": "263776388689"
+      "value": "255742700114 "
     },
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'starcore~'",
-      "required": false,
+      "description": ".menu~'",
+      "required": true,
       "value": ""
     },
     "MODE": {
@@ -37,7 +37,7 @@
     "TIMEZONE": {
       "description": "Set your timezone",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "Africa/Dodoma "
     }
   }
 }
